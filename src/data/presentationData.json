@@ -1,20 +1,20 @@
 {
-  "title": "Lionstar GFI Business Plan",
+  "title": "Prosperity Leaders + Global Financial Impact Business Plan",
   "subtitle": "Professional Financial Services Training & Onboarding",
   "logo": "/api/placeholder/200/80",
-  "company": "Lionstar Global Financial Inc.",
+  "company": "Prosperity Leaders + Global Financial Impact",
   "slides": [
     {
       "id": "welcome",
-      "title": "Welcome to Lionstar GFI",
+      "title": "Welcome to Prosperity Leaders + Global Financial Impact",
       "type": "title",
-      "content": "# Welcome to Your Financial Services Journey\n\n**Lionstar Global Financial Inc.** is your gateway to building a successful career in financial services.\n\n## What You'll Learn Today:\n\n- Our company mission and values\n- Product offerings and services\n- Commission structure and earning potential\n- Training and development opportunities\n- Success strategies from top performers\n\n*Ready to transform your financial future?*"
+      "content": "# Welcome to Your Financial Services Journey\n\n**Prosperity Leaders + Global Financial Impact** is your gateway to building a successful career in financial services.\n\n## What You'll Learn Today:\n\n- Our company mission and values\n- Product offerings and services\n- Commission structure and earning potential\n- Training and development opportunities\n- Success strategies from top performers\n\n*Ready to transform your financial future?*"
     },
     {
       "id": "company-overview",
       "title": "Company Overview",
       "type": "content",
-      "content": "# About Lionstar GFI\n\n## Our Mission\nTo empower individuals and families to achieve financial security through innovative insurance and investment solutions.\n\n## Our Vision\nBecoming the leading provider of comprehensive financial services in North America.\n\n## Core Values\n- **Integrity** - We operate with honesty and transparency\n- **Excellence** - We strive for the highest standards in everything we do\n- **Innovation** - We embrace new technologies and methodologies\n- **Client-Centric** - Our clients' success is our success\n- **Teamwork** - We achieve more together than individually\n\n## Company Statistics\n- Founded: 2018\n- Agents: 500+ nationwide\n- Clients Served: 10,000+\n- Average Annual Growth: 35%"
+      "content": "# About Prosperity Leaders + Global Financial Impact\n\n## Our Mission\nTo empower individuals and families to achieve financial security through innovative insurance and investment solutions.\n\n## Our Vision\nBecoming the leading provider of comprehensive financial services in North America.\n\n## Core Values\n- **Integrity** - We operate with honesty and transparency\n- **Excellence** - We strive for the highest standards in everything we do\n- **Innovation** - We embrace new technologies and methodologies\n- **Client-Centric** - Our clients' success is our success\n- **Teamwork** - We achieve more together than individually\n\n## Company Statistics\n- Founded: 2018\n- Agents: 500+ nationwide\n- Clients Served: 10,000+\n- Average Annual Growth: 35%"
     },
     {
       "id": "products-services",
@@ -64,12 +64,5 @@
       "type": "content",
       "content": "# Professional Development Reading List\n\n## Sales & Prospecting\n\n### \"The Challenger Sale\" by Matthew Dixon\n*Master the art of challenging customer thinking and driving sales success.*\n\n### \"SPIN Selling\" by Neil Rackham\n*Learn the proven methodology for consultative selling in complex sales.*\n\n### \"The Psychology of Selling\" by Brian Tracy\n*Understand the mental aspects of selling and buyer behavior.*\n\n## Financial Services\n\n### \"The Financial Advisor's Success Manual\" by David Leo\n*Comprehensive guide to building a successful financial services practice.*\n\n### \"The One Page Financial Plan\" by Carl Richards\n*Simple approach to financial planning that clients can understand.*\n\n### \"Your Money or Your Life\" by Vicki Robin\n*Fundamental concepts about money and financial independence.*\n\n## Personal Development\n\n### \"How to Win Friends and Influence People\" by Dale Carnegie\n*Timeless principles for building relationships and influencing others.*\n\n### \"The 7 Habits of Highly Effective People\" by Stephen Covey\n*Character-based approach to personal and professional effectiveness.*\n\n### \"Think and Grow Rich\" by Napoleon Hill\n*Classic success principles for achieving financial goals.*\n\n## Industry Knowledge\n\n### \"The Insurance Industry\" by Robert Hartwig\n*Comprehensive overview of the insurance industry and trends.*\n\n### \"A Random Walk Down Wall Street\" by Burton Malkiel\n*Investment principles and market behavior insights.*\n\n*All books are available through our company library and online learning platform.*"
     }
-  ],
-  "footer": {
-    "company": "Lionstar Global Financial Inc.",
-    "phone": "(555) 123-4567",
-    "email": "info@lionstargfi.com",
-    "website": "www.lionstargfi.com",
-    "address": "123 Financial District, Suite 100, New York, NY 10001"
-  }
+  ]
 }

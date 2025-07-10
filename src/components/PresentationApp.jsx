@@ -4,7 +4,6 @@ import Header from './Header';
 import Slide from './Slide';
 import Navigation from './Navigation';
 import ProgressBar from './ProgressBar';
-import Footer from './Footer';
 import presentationData from '../data/presentationData.json';
 
 const PresentationApp = () => {
@@ -53,7 +52,7 @@ const PresentationApp = () => {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex flex-col">
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
       <Header 
         title={presentationData.title}
         subtitle={presentationData.subtitle}
@@ -66,7 +65,7 @@ const PresentationApp = () => {
         total={presentationData.slides.length}
       />
 
-      <main className="flex-1 container mx-auto px-4 py-8">
+      <main className="container mx-auto px-4 py-8">
         <AnimatePresence mode="wait">
           <motion.div
             key={currentSlide}
@@ -92,8 +91,6 @@ const PresentationApp = () => {
         onGoTo={goToSlide}
         slides={presentationData.slides}
       />
-
-      <Footer footerData={presentationData.footer} />
     </div>
   );
 };
